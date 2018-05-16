@@ -42,6 +42,7 @@ a dream, but became a reality last year (2017).
       - Conventions and glossary
 - (Nov) - Styles and workshop templates
       - Keep on with reviews
+      
 2018
 
 - (Feb) - Getting ready for the official release
