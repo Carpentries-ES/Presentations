@@ -29,14 +29,14 @@ a dream, but became a reality last year (2017).
 
 2017
 
-- (Mar?) - Instructor training - University of Puerto Rico
-- (Aug?) - Instructor training - Mexico where?
+- (Mar?) - Instructor training, University of Puerto Rico
+- (Aug?) - Instructor training, Mexico where?
 - (Sep) - First Spanish demo session
       - Actively encouraging Spanish speakers to become trainers
       - Numerous emails of expression of interest, github repo, mailing list,
       [open invitation](https://software-carpentry.org/blog/2017/09/latin-am-lessons.html)
 - (Oct) - Tests, meetings and introductions
-      - First [Hackathon at OpenCon](https://github.com/sparcopen/doathon/issues/14) - Berlin
+      - First [Hackathon at OpenCon](https://github.com/sparcopen/doathon/issues/14), Berlin
       - First two lessons translated
       - Started revisions
       - [Conventions and glossary](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md)
@@ -46,7 +46,7 @@ a dream, but became a reality last year (2017).
 2018
 
 - (Feb) - Getting ready for the official release
-      - Second [Hackathon - in Buenos Aires](https://github.com/Carpentries-ES/R-hackaton-es)
+      - Second [Hackathon in Buenos Aires](https://github.com/Carpentries-ES/R-hackaton-es)
 - (Mar) - New maintainers for the Spanish lessons
       - [official lesson release](https://software-carpentry.org/lessons/) and the [post in Spanish](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html) and [post in English](https://software-carpentry.org/blog/2018/03/forlatinamerica.html)
 - (May) - Community gathering CarpentryCon [Abstract](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md)
