@@ -17,6 +17,8 @@ Now I want to make a point, when you think something is awesome and worth it,
 you want to share it.
 
 Why Spanish? because is the second most spoken language in the world.
+[Most spoken languagues](https://cdn3.i-scmp.com/sites/default/files/styles/980w/public/2015/11/25/languageshqscmp.png?itok=sdS8i4NS)
+Image credit: [@aLucasLopez](https://twitter.com/aLucasLopez) Alberto Lucas López, 2015 at South China Morning Post (SCMP)
 
 # What?
 
@@ -25,25 +27,28 @@ a dream, but became a reality last year (2017).
 
 # How-When?
 
-(Mar?) Instructor training - University of Puerto Rico
-(Aug?) Instructor training - Mexico where?
-(Sep) - First Spanish demo session
+2017
+
+- (Mar?) Instructor training - University of Puerto Rico
+- (Aug?) Instructor training - Mexico where?
+- (Sep) - First Spanish demo session
       - Actively encouraging Spanish speakers to become trainers
       - Numerous emails of expression of interest, github repo, mailing list,
-      open invitation
-(Oct) - Tests, meetings and introductions
-      - First Hackathon at OpenCon - Berlin
+      [open invitation](https://software-carpentry.org/blog/2017/09/latin-am-lessons.html)
+- (Oct) - Tests, meetings and introductions
+      - First [Hackathon at OpenCon](https://github.com/sparcopen/doathon/issues/14) - Berlin
       - First two lessons translated
       - Started revisions
       - Conventions and glossary
-(Nov) - Styles and workshop templates
+- (Nov) - Styles and workshop templates
       - Keep on with reviews
 2018
-(Feb) - Getting ready for the official release
-      - Second Hackathon - in Buenos Aires
-(Mar) - New maintainers for the Spanish lessons
-      - official lesson release
-(May) - Community gathering CarpentryCon
+
+- (Feb) - Getting ready for the official release
+      - Second [Hackathon - in Buenos Aires](https://github.com/Carpentries-ES/R-hackaton-es)
+- (Mar) - New maintainers for the Spanish lessons
+      - [official lesson release](https://software-carpentry.org/lessons/) and the [post in Spanish](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html) and [post in English](https://software-carpentry.org/blog/2018/03/forlatinamerica.html)
+- (May) - Community gathering CarpentryCon [Abstract](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md)
 
 # Who?
 
