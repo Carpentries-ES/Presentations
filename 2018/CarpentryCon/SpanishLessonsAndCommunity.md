@@ -29,8 +29,8 @@ a dream, but became a reality last year (2017).
 
 2017
 
-- (Mar?) Instructor training - University of Puerto Rico
-- (Aug?) Instructor training - Mexico where?
+- (Mar?) - Instructor training - University of Puerto Rico
+- (Aug?) - Instructor training - Mexico where?
 - (Sep) - First Spanish demo session
       - Actively encouraging Spanish speakers to become trainers
       - Numerous emails of expression of interest, github repo, mailing list,
@@ -39,7 +39,7 @@ a dream, but became a reality last year (2017).
       - First [Hackathon at OpenCon](https://github.com/sparcopen/doathon/issues/14) - Berlin
       - First two lessons translated
       - Started revisions
-      - Conventions and glossary
+      - [Conventions and glossary](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md)
 - (Nov) - Styles and workshop templates
       - Keep on with reviews
       
