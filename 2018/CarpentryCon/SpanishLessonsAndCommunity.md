@@ -30,7 +30,9 @@ a dream, but became a reality last year (2017).
 2017
 
 - (Mar?) - Instructor training, University of Puerto Rico
-- (Aug?) - Instructor training, Mexico where?
+- (Aug) 
+      - Instructor training, Mexico (17 new Spanish speaker instructors)
+      - Many of them are the drivers of the translation effort
 - (Sep) - First Spanish demo session
       - Actively encouraging Spanish speakers to become trainers
       - Numerous emails of expression of interest, github repo, mailing list,
