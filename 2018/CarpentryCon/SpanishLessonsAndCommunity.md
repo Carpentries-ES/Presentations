@@ -122,3 +122,6 @@ All of this was not going to be possible without the effort, time and trust of a
 
 
 # Gracias!
+
+
+You can find the code and PDF on [this repo](https://github.com/Carpentries-ES/Presentations/tree/master/2018/CarpentryCon)
