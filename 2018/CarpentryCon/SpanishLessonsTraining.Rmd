@@ -1,5 +1,6 @@
 ---
 title: "Spanish Lessons and Community"
+subtitle: "🌎🌍🌏 <br/> This is a community effort"
 output:
   xaringan::moon_reader:
     css: [default, robot, rladies-fonts]
@@ -36,7 +37,7 @@ but became a reality last year (2017)
 
 ---
 
-# Timeline and Achievements
+# Time line and Achievements
 
 2017
 
@@ -48,7 +49,7 @@ but became a reality last year (2017)
 - (Sep) 
     - First Spanish demo session
     - Actively **encouraging** Spanish speakers to become trainers
-    - Numerous **emails** of expression of interest, github repo, mailing list,
+    - Numerous **emails** of expression of interest, GitHub repo, mailing list,
     [open invitation](https://software-carpentry.org/blog/2017/09/latin-am-lessons.html)
 - (Oct) 
     - **Tests**, **meetings** and introductions
@@ -60,7 +61,7 @@ but became a reality last year (2017)
     - More reviews!
 
 ---
-# Timeline and Achievements
+# Time line and Achievements
 
 2018
 
@@ -78,6 +79,7 @@ Our lessons to date:
 - [La terminal de Unix](https://github.com/swcarpentry/shell-novice-es)
 - [Control de versiones con Git](https://github.com/swcarpentry/git-novice-es)
 - [R para Análisis Científicos Reproducibles](https://github.com/swcarpentry/r-novice-gapminder-es)
+- [Zenodo - Cite us!](https://zenodo.org/communities/carpentries/?page=1&size=20)
 
 ---
 class: middle, center
@@ -127,7 +129,7 @@ class: middle, center
 # FAQs
 
 - How to join the working group? [Express your interest](https://github.com/Carpentries-ES/board)
-- To contribute you need a github account and keep an eye on the lessons
+- To contribute you need a GitHub account and keep an eye on the lessons
 
 - To replicate this effort to another language
     - You can use our [conventions](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md)
@@ -143,5 +145,6 @@ background-size: contain
 # ¡Gracias!
 
 .footnote[
-Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan) 
+and you can find the code and PDF on [this repo](https://github.com/Carpentries-ES/Presentations/tree/master/2018/CarpentryCon)
 ]
