@@ -1,3 +1,8 @@
+# Spanish Lessons and Community
+## 🌎🌍🌏 
+## This is a community effort
+
+
 # Hola!
 
 I've got two small requests for you.
@@ -53,6 +58,14 @@ a dream, but became a reality last year (2017).
       - [official lesson release](https://software-carpentry.org/lessons/) and the [post in Spanish](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html) and [post in English](https://software-carpentry.org/blog/2018/03/forlatinamerica.html)
 - (May) - Community gathering CarpentryCon [Abstract](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md)
 
+Our lessons to date:
+
+- [La terminal de Unix](https://github.com/swcarpentry/shell-novice-es)
+- [Control de versiones con Git](https://github.com/swcarpentry/git-novice-es)
+- [R para Análisis Científicos Reproducibles](https://github.com/swcarpentry/r-novice-gapminder-es)
+- [Zenodo - Cite us!](https://zenodo.org/communities/carpentries/?page=1&size=20)
+
+
 # Who?
 
 Our heartfelt gratitude for the time invested!
@@ -93,6 +106,8 @@ Shirley Alquicira
 Silvana Pereyra
 Sue McClatchy
 Veronica Jimenez Jacinto
+
+All of this was not going to be possible without the effort, time and trust of all these people.
 
 # FAQs
 
